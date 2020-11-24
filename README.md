@@ -3,7 +3,7 @@
 * Nodemcu
 * Arduino
 * MQTT
-* mfrc522 rfid reader
+* mfrc522 RFID reader
 * Neo-6m GPS Module
 * SIM 900 GSM module
 
